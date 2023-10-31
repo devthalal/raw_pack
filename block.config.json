@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "psRItNEGssmDNSuqZnwoU",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/raw_pack.git",
+    "ssh": "git@github.com:devthalal/raw_pack.git",
     "branch": "block_raw_pack"
   },
   "parentBlockIDs": [],
