@@ -1,0 +1,17 @@
+{
+  "name": "raw_pack",
+  "type": "raw-package",
+  "blockId": "psRItNEGssmDNSuqZnwoU",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_raw_pack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
